@@ -188,7 +188,7 @@ button {
   bottom: 20px;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 480px) {
   body {
     display: flex;
     justify-content: center;
